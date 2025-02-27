@@ -24,7 +24,7 @@ Este é um sistema para gerenciamento de um consultório odontológico, desenvol
 
 ## 📷 Imagens do projeto:
    Tela de login:
-      ![image](https://github.com/user-attachments/assets/115376f2-6a02-4ad0-a3bc-406332c6db20)
+   ![image](https://github.com/user-attachments/assets/115376f2-6a02-4ad0-a3bc-406332c6db20)
 
    Tela de cadastro de consultas:
       ![image](https://github.com/user-attachments/assets/80661feb-4c83-4130-a6ae-9fbb01a3d0ea)

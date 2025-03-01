@@ -6,7 +6,7 @@ Este é um sistema para gerenciamento de um consultório odontológico, desenvol
 ## 📌 Funcionalidades  
 ✅ Cadastro de pacientes
 ✅ Agendamento de consultas  
-✅ Gerenciamento de pagamentos  
+✅ Gerenciamento de pagamentos
 ✅ Gerenciamento de estoque de equipamentos e produtos
 ✅ Interface gráfica clara
 

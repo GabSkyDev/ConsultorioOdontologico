@@ -1,4 +1,4 @@
-# ConsultorioOdontologico
+# Consultorio Odontologico
 Sistema para gerenciamento de um consultório odontológico desenvolvido em Java.
 
 Este é um sistema para gerenciamento de um consultório odontológico, desenvolvido em **Java** com **NetBeans** e **MySQL**. 
